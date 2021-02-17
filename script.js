@@ -37,17 +37,17 @@ require([
             { color: "#191970", ratio: 0.083 },
             { color: "#0000cd", ratio: 0.166 },
             { color: "#1e90ff",ratio: 0.249 },
-            { color: "#00bfff", ratio: 0.332 },
+            { color: "#ffb000", ratio: 0.332 },
             { color: "#ff6347", ratio: 0.415 },
-            { color: "#ff4500", ratio: 0.498 },
-            { color: "#ff0000", ratio: 0.581 },
+            { color: "#0045ff", ratio: 0.498 },
+            { color: "#00ff00", ratio: 0.581 },
             { color: "#c71585", ratio: 0.664 },
             { color: "#ff00ff", ratio: 0.747 },
             { color: "#ff1493", ratio: 0.83 },
-            { color: "#ffd700", ratio: 0.913 },
-            { color: "#adff2f", ratio: 1 }
+            { color: "#00d7ff", ratio: 0.913 },
+            { color: "#ad002f", ratio: 1 }
           ],
-          maxPixelIntensity: 400,
+          maxPixelIntensity: 100,
           minPixelIntensity: 0
       };
 
